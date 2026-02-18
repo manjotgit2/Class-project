@@ -1,0 +1,9 @@
+Name -: Manjot kaur
+course: MCA /DevOps practical
+
+
+hello,my name is Manjot kaur .i am learning git and github. i want to become a devops engineer.
+                           I like linux and shell scripting .this is my first git practice assignment
+
+
+i want good career in this work.
