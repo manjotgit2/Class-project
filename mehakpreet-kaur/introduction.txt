@@ -6,3 +6,8 @@ I am interested in automation and cloud technologies.
 I want to build strong DevOps skills.
 I enjoy working on practical assignments.
 
+
+I am practicing real-time Git workflows.
+I aim to become a skilled DevOps engineer.
+
+
