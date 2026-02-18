@@ -1,0 +1,6 @@
+my name is vishal.
+Course: DevOps
+I am currently learning Git and GitHub.
+I am interested in automation and cloud technologies.
+I want to build strong DevOps skills.
+I enjoy working on practical assignments.
